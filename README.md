@@ -1,5 +1,4 @@
 # Ninja Fights
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/shadow-dawg/ninja-fights)
 
 Ninja Fights is a retro-style 2D fighting game built with JavaScript and the HTML5 Canvas. Face off against a friend in a local two-player battle featuring unique characters, classic pixel art animations, and fast-paced combat.
 
